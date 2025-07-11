@@ -1,0 +1,17 @@
+---
+title: "RMarkdown Analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This is an example RMarkdown notebook running inside Posit Workbench with Git version control enabled.
+
+```{r cars}
+summary(cars)
+plot(cars)
+```
