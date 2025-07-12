@@ -1,0 +1,11 @@
+date,product,salesperson,units_sold,unit_price
+2025-01-15,Notebook,John Smith,10,5.99
+2025-01-17,Pen,Jane Doe,50,0.99
+2025-02-05,Notebook,John Smith,20,5.99
+2025-02-10,Backpack,Alice Lee,5,29.99
+2025-03-12,Pen,Jane Doe,100,0.99
+2025-03-15,Laptop,John Smith,3,899.99
+2025-04-03,Monitor,Alice Lee,2,199.99
+2025-05-21,Notebook,Jane Doe,15,5.99
+2025-06-02,Pen,Alice Lee,80,0.99
+2025-07-01,Laptop,Jane Doe,4,899.99
