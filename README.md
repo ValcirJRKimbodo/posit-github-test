@@ -5,3 +5,4 @@ This is a test project to validate GitHub integration with Posit tools (Workbenc
 Includes:
 - An RMarkdown notebook (`analysis.Rmd`)
 - A Jupyter notebook (`notebook.ipynb`)
+'

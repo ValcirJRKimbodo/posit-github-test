@@ -1,9 +1,0 @@
-version: 1
-applications:
-  - name: posit-github-test
-    title: "Teste Git Python"
-    python:
-      mode: virtualenv
-      file: app.py
-    runAs: valcir
-    environment: production
