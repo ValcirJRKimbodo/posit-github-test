@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "platform": "Python",
+  "python": {
+    "mode": "virtualenv",
+    "version": "3.12.6",
+    "entrypoint": "app.py",
+    "package_manager": "pip",
+    "requirements_txt": "requirements.txt"
+  },
+  "metadata": {
+    "user": "valcir",
+    "name": "posit-github-test",
+    "title": "Publicação de exemplo Python"
+  }
+}
