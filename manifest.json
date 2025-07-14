@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "platform": "Jupyter",
+  "platform": "Python",
   "entrypoint": "sales_analysis.ipynb",
   "python": {
     "requirements": "requirements.txt"
