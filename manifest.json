@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "platform": "Python",
-  "entrypoint": "sales_analysis.ipynb",
+  "locale": "C.UTF-8",
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "sales_analysis.ipynb"
+  },
   "python": {
-    "requirements": "requirements.txt"
+    "version": "3.12.11",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "sales_analysis.ipynb": {
+      "checksum": "b3ca7c495157eca832d106589810c0ed"
+    },
+    "requirements.txt": {
+      "checksum": "aedb4b21854aeb646254836e4c2e5f4e"
+    }
   }
 }
