@@ -1,3 +1,4 @@
 pandas
 matplotlib
-kimbodo-posit-demo-utils
+--extra-index-url https://posit01gcp-package.kimbodo.com/internal-python/latest/simple
+posit-demo-utils
